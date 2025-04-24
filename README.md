@@ -1,5 +1,6 @@
 # projetosite
 Parte inicial de um site
 
-Ainda em desenvolvimento
+Ainda em desenvolvimento.
+
 Responsividade em desenvolvimento
