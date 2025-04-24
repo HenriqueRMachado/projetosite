@@ -1,2 +1,4 @@
 # projetosite
-Projeto de site
+Parte inicial de um site
+
+Responsividade em desenvolvimento
